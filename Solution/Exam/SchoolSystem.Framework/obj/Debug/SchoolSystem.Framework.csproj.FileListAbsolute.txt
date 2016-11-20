@@ -1,0 +1,5 @@
+C:\Users\p_a_v\Desktop\DesignPatternsExam\Exam\SchoolSystem.Framework\bin\Debug\SchoolSystem.Framework.dll
+C:\Users\p_a_v\Desktop\DesignPatternsExam\Exam\SchoolSystem.Framework\bin\Debug\SchoolSystem.Framework.pdb
+C:\Users\p_a_v\Desktop\DesignPatternsExam\Exam\SchoolSystem.Framework\obj\Debug\SchoolSystem.Framework.csprojResolveAssemblyReference.cache
+C:\Users\p_a_v\Desktop\DesignPatternsExam\Exam\SchoolSystem.Framework\obj\Debug\SchoolSystem.Framework.dll
+C:\Users\p_a_v\Desktop\DesignPatternsExam\Exam\SchoolSystem.Framework\obj\Debug\SchoolSystem.Framework.pdb

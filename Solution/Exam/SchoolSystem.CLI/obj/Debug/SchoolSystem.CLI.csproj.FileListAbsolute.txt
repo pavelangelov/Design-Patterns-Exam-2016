@@ -1,0 +1,16 @@
+C:\Users\p_a_v\Desktop\DesignPatternsExam\Exam\SchoolSystem.CLI\bin\Debug\SchoolSystem.Cli.exe.config
+C:\Users\p_a_v\Desktop\DesignPatternsExam\Exam\SchoolSystem.CLI\bin\Debug\SchoolSystem.Cli.exe
+C:\Users\p_a_v\Desktop\DesignPatternsExam\Exam\SchoolSystem.CLI\bin\Debug\SchoolSystem.Cli.pdb
+C:\Users\p_a_v\Desktop\DesignPatternsExam\Exam\SchoolSystem.CLI\bin\Debug\Ninject.dll
+C:\Users\p_a_v\Desktop\DesignPatternsExam\Exam\SchoolSystem.CLI\bin\Debug\Ninject.Extensions.Conventions.dll
+C:\Users\p_a_v\Desktop\DesignPatternsExam\Exam\SchoolSystem.CLI\bin\Debug\SchoolSystem.Framework.dll
+C:\Users\p_a_v\Desktop\DesignPatternsExam\Exam\SchoolSystem.CLI\bin\Debug\SchoolSystem.Framework.pdb
+C:\Users\p_a_v\Desktop\DesignPatternsExam\Exam\SchoolSystem.CLI\bin\Debug\Ninject.xml
+C:\Users\p_a_v\Desktop\DesignPatternsExam\Exam\SchoolSystem.CLI\bin\Debug\Ninject.Extensions.Conventions.xml
+C:\Users\p_a_v\Desktop\DesignPatternsExam\Exam\SchoolSystem.CLI\obj\Debug\SchoolSystem.CLI.csprojResolveAssemblyReference.cache
+C:\Users\p_a_v\Desktop\DesignPatternsExam\Exam\SchoolSystem.CLI\obj\Debug\SchoolSystem.Cli.exe
+C:\Users\p_a_v\Desktop\DesignPatternsExam\Exam\SchoolSystem.CLI\obj\Debug\SchoolSystem.Cli.pdb
+C:\Users\p_a_v\Desktop\DesignPatternsExam\Exam\SchoolSystem.CLI\bin\Debug\Castle.Core.dll
+C:\Users\p_a_v\Desktop\DesignPatternsExam\Exam\SchoolSystem.CLI\bin\Debug\Ninject.Extensions.Factory.dll
+C:\Users\p_a_v\Desktop\DesignPatternsExam\Exam\SchoolSystem.CLI\bin\Debug\Castle.Core.xml
+C:\Users\p_a_v\Desktop\DesignPatternsExam\Exam\SchoolSystem.CLI\bin\Debug\Ninject.Extensions.Factory.xml
